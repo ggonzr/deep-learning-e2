@@ -1,0 +1,3 @@
+[submodule "deep-learning-e2-frontend"]
+	path = deep-learning-e2-frontend
+	url = https://github.com/ggonzr/deep-learning-e2-frontend.git
