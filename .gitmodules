@@ -1,3 +1,6 @@
 [submodule "deep-learning-e2-frontend"]
 	path = deep-learning-e2-frontend
 	url = https://github.com/ggonzr/deep-learning-e2-frontend.git
+[submodule "img-app"]
+	path = img-app
+	url = https://github.com/esanta26/img-app.git
